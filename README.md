@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @omonuj
-- 👀 I’m interested in java, python,c and c++
-- 🌱 I’m currently learning at semicolonafrica
+- 👋 Hi, I’m jonah
+- 👀 I write Java, Python React and devops
 - 💞️ I’m looking to collaborate on productive projects
 - 📫 How to reach me either or at jonahodoh@gmail.com
 - 😄 Pronouns: I|He
